@@ -1,0 +1,22 @@
+name: "Build, Test, and Lint"
+on: [push]
+jobs:
+  build:
+    name: "Build"
+    runs-on: "ubuntu-latest"
+    steps:
+      - run: 'echo "Nothing to build..."'
+
+  lint:
+    name: "Lint"
+    runs-on: "ubuntu-latest"
+    needs: [build]
+    steps:
+      - run: 'echo "Nothing to build..."'
+
+  test:
+    name: "Test"
+    runs-on: "ubuntu-latest"
+    needs: [build]
+    steps:
+      - run: 'echo "Nothing to build..."'
