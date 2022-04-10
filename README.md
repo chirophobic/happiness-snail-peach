@@ -17,8 +17,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![example workflow](https://github.com/chirophobic/happiness-snail-peach/actions/workflows/build-test-lint/badge.svg)
-[![MIT License][license-shield]][license-url]
+![build-test-lint](https://github.com/chirophobic/happiness-snail-peach/actions/workflows/build-test-lint.yml/badge.svg)
 
 
 
@@ -68,8 +67,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -184,10 +181,3 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/chirophobic/happiness-snail-peach.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/main/LICENSE.txt
